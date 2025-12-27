@@ -1,0 +1,3 @@
+The game dynamically tracks the user’s score as they progress through the quiz. Instant feedback keeps users motivated and encourages them to think critically before moving to the next question. At the end of the quiz, a final score is displayed along with a result message, creating a sense of completion and achievement.
+
+Built using HTML, CSS, and JavaScript, the quiz game focuses on clean design, smooth functionality, and responsiveness. The logic ensures proper question navigation, option selection, score calculation, and restart capability. This project demonstrates practical use of JavaScript concepts such as arrays, objects, DOM manipulation, event handling, and conditional logic.
